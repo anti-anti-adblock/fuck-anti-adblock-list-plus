@@ -2,7 +2,6 @@
 ! Description: Layered defuser for every known anti-adblock vendor (Admiral, Ad-Shield, Blockthrough, Sourcepoint, Sulvo, Venatus, Publir, PubGalaxy, OptinMonster, iZooto, UniSignIn, Uponit, PageFair, Instart, PubGuru, BlockAdBlock, FuckAdBlock, IAB DEAL, AdSpyglass, AdBreach, Prebid, DetectAdBlock, DeBlocker, CHP, AdUnblocker, ZDN, Eazy, Raptive, NitroPay, Adsterra, UnderdogMedia, AdKernel, Google, YouTube).
 ! Homepage: https://github.com/anti-anti-adblock/fuck-anti-adblock-list-plus
 ! Version: 2026-07-01
-! Syntax: uBlock Origin 1.55+ / AdGuard / Brave
 ! License: MIT
 ! ---------------------------------------------------------------------
 
